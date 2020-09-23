@@ -1,0 +1,23 @@
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+.add-upd {
+  width: 100%;
+  padding: 3rem;
+  padding-top: 0;
+}
+.add-upd input, .add-upd select {
+  margin-bottom: 1rem;
+}
+.btn {
+  margin-right: .5rem;
+}
+.pagination {
+  justify-content: center;
+}
