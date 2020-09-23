@@ -1,45 +1,51 @@
 {
   "lembretes": [
     {
-      "name": "React",
-      "desc": "maios ou menos....",
+      "name": "Estudar React",
+      "desc": "Lorem ipsum dolor mais ou menos.",
       "prio": "baixa",
+      "id": 1
+    },
+    {
+      "name": "Estudar Vue.JS framework",
+      "desc": "Muito bom esse, estudar mais. Lorem ipsum dolor ",
+      "prio": "alta",
+      "id": 2
+    },
+    {
+      "name": "Titulo de tarefa teste",
+      "desc": "Lorem ipsum dolor descriçlão zaafsfafsdsdf",
+      "prio": "média",
       "id": 3
     },
     {
-      "name": "Vue.JS framework system",
-      "desc": "Muito bom esse, estudar mais.",
-      "prio": "alta",
+      "name": "Estudar Javascript",
+      "desc": "Melhorar estudos do ecma 6. Lorem ipsum dolor ",
+      "prio": "média",
       "id": 4
     },
     {
-      "name": "Titulo",
-      "desc": "qq descriçlão zaafsfafsdsdf",
+      "name": "Tarefa teste 5",
+      "desc": "Descrição da modal, lorem ipsum dolor 5",
       "prio": "média",
-      "id": 6
+      "id": 5
     },
     {
-      "name": "Javascript",
-      "desc": "Melhorar estudos do ecma 6 ",
-      "prio": "média",
-      "id": 7
-    },
-    {
-      "name": "Teste modalaa",
-      "desc": "Descriçãoda modal",
-      "prio": "média",
-      "id": 8
-    },
-    {
-      "id": 9,
-      "name": "sdfasdfsd",
-      "desc": "afssfsaf",
+      "id": 6,
+      "name": "Tarefa teste 6",
+      "desc": "Lorem ipsum dolor 6",
       "prio": "média"
     },
     {
-      "id": 10,
-      "name": "asfsfasdf",
-      "desc": "fsaffs",
+      "id": 7,
+      "name": "Tarefa teste 7",
+      "desc": "Lorem ipsum dolor 7",
+      "prio": "alta"
+    },
+    {
+      "id": 8,
+      "name": "Tarefa teste 8",
+      "desc": "Lorem ipsum dolor 8",
       "prio": "alta"
     }
   ]
