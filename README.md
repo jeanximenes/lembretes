@@ -5,6 +5,13 @@
 npm install
 ```
 
+### Load mockup JSON
+```
+npm install -g json-server
+cd src
+json-server db.json
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -13,11 +20,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Load mockup JSON
-```
-json-server db.json
 ```
 
 ### Customize configuration
